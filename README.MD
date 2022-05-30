@@ -17,3 +17,8 @@ Run with command:
 
 ```bash
 node ./app.js
+
+## Endpoints
+
+```bash
+http://localhost:3000
